@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $dBUsername = "root";
-$dBPassword = "";
+$dBPassword = "nordica";
 $dbName = "loginsystem";
 
 $conn = mysqli_connect($servername, $dBUsername, $dBPassword, $dbName);
